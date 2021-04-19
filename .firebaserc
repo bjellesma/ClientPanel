@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "clientpanel-8c153": {
+      "hosting": {
+        "ClientPanel": [
+          "clientpanel-8c153"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "clientpanel-8c153"
+  }
+}
